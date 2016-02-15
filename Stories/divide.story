@@ -13,4 +13,4 @@ Then result should be 1
 Scenario: divide by 3
 Given a variable x is 3
 When I add x with 3
-Then result would be 6
+Then result would be 7
